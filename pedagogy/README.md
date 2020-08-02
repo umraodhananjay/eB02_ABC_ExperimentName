@@ -7,10 +7,10 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Experiment ABCDEF Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Physics
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Physical sciences
+<b> Experiment|     <b> 1. to understand --
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,14 +21,14 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : instrumentation and guided inquiry
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to: <br>understand the functioning of <br> Next line here. | understand | identify
 2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
@@ -43,12 +43,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> 
+###### Assessment Method: 
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b>  </u>
 <br>
- Brief description as per handout
+ according to my 
 
 <br/>
 <div align="right">
