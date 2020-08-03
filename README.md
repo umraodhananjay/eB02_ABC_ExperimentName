@@ -50,6 +50,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
 3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
 4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+5 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
 
 
 <br>
