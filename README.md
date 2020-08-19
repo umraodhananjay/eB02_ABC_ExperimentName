@@ -6,7 +6,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b>Discipline | <b>Computer Science
 :--|:--|
 <b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Experiment|     <b> 1. Enter the correct experiment number) Name of the experiment
 
 <h5> About the Lab (Objective) : </h5>
 
