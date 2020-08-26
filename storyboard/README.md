@@ -2,7 +2,7 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
+Experiment 1: verification of stefan's law
 
 ### 1. Story Outline:
 
